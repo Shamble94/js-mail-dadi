@@ -21,3 +21,8 @@ Consigli del giorno:
 2 - chiediamo all'utente di inserire la propria email e la associamo ad una variabile.
 3 - tramite un ciclo andiamo a controllare se nell'array è presente l'email inserita dall'utente.
 4 - se è presente verra visualizzato un messaggio di approvazione, altrimenti verra visualizzato un messaggio di negazione.
+
+<!-- Scomposizione secondo esercizio -->
+1 - creiamo 2 variabili con la funzione random per generare dei numeri
+2 - confrontiamo queste due variabili per vedere quale delle due è maggiore rispetto all'altra
+3 - nel caso la variabile utente sia maggiore della variabile computer, faremo apparire un alert con un messaggio di vittoria per l'utente, nel caso contrario il messaggio sara di vittoria per il computer
